@@ -1,3 +1,4 @@
+<<<<<< HEAD
 git init
 git add
 git commit -m
@@ -17,3 +18,9 @@ git push origen
 git pull destino
 git clone test
 .gitignore para anadir los ficheros que no queremos subir
+=======
+#NOMBRE				|	#GITHUB
+--------------------------------|----------------------------
+Fernando			|	ffuentetech 
+Adolfo Sanz de Diego		|	asanzdiego
+Lourdes Ruiz			|	LourdesRD
