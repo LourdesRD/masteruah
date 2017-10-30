@@ -1,5 +1,4 @@
-<<<<<< HEAD
-LISTA DE COMANDOS GIT
+#LISTA DE COMANDOS GIT
 1. git init -> inicia el git para crear un proyecto
 2. git add nombrefichero -> anade fichero al staging area
 	2.1. git add --all -> anade todos los ficheros al staging area que es donde se hace el seguimiento commit
@@ -23,7 +22,10 @@ LISTA DE COMANDOS GIT
 19. .gitignore para anadir los ficheros que no queremos subir
 20. rm nombrefichero -> elimina el fichero especificado
 21. ssh -keygen -> general las claves p'ublica y privada para la cuenta GitHub. Requiere ir al directorio bash que est'a oculto en el raiz
+
 =======
+
+
 #NOMBRE				|	#GITHUB
 --------------------------------|----------------------------
 Fernando			|	ffuentetech 
